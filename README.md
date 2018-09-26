@@ -41,8 +41,9 @@ Due to the complexity of this project we will only develop a platform where Jobs
 
 ###### Build an UI using the mockup below as a guideline for:
 
-      > A Search View - use storybook and build the components for the view. Use the data provided in the APIs stated below the Mockup.
-      
+      > A Search View - use storybook and build the components for the view. 
+      Use the data provided in the APIs stated below the Mockup.
+
 ![Mockup_1st_Screen](./images/Mockup_1st_Screen.png)
 
 
