@@ -19,6 +19,8 @@ Note that the project is split into two sub-projects. One for the [client](/clie
 
 ### THREAD 
 
+#### THREAD stands for Textile Hub for Refugee Empowerment, Employment & Entrepreneurship Advancement in Denmark
+
 THREAD is a dynamic and innovative collaboration of diverse partners from business, design, education, research and refugee support agencies aiming to achieve life-changing results for women who are forging new lives in Denmark.
 
 Learn more about our customer here: https://ctr.hum.ku.dk/research-programmes-and-projects/thread/
