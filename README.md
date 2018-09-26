@@ -27,7 +27,9 @@ Learn more about our customer here: https://ctr.hum.ku.dk/research-programmes-an
 
 ## The Project Scope
 
-### Not available yet
+### The goal for this project is to develop an online platform to facilitate the connections between refugee women and individuals or organisations which share an interest in textiles and craft activity.
+
+Due to the complexity of this project we only develop a platform where Jobs, Events, Calander, Organisations and Invidiual which will be called Shadows for now on will be available to be searched upon, listed and also inserted in the system. The goal is to built the List Views and Insert Views related to these objects and make is possible to search and visualize them in a Map.
 
 ## Work stories
 
