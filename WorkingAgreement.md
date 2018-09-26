@@ -1,5 +1,14 @@
 # Class05 Working Agreement
 
+## Ground Rules for the Final Project Class
+```text
+º You must attend to 80% of the classes which means you if you miss 3 classes you are excluded of the FP;
+º Homework is mandatory and if you miss it we will consider that you did not attended the class;
+º Reach out by Wednesday with your questions about the work for the week;
+º Hand-in of the Homework is on Saturdays till 12:00(midday).
+º We expect you to work 15 to 25hours per week for the FP.
+```
+
 ## Iterations/Sprints/Deliverables
 
 ```text
