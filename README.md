@@ -46,17 +46,6 @@ Due to the complexity of this project we will only develop a platform where Jobs
 
 ![Mockup_1st_Screen](./images/Mockup_1st_Screen.png)
 
-      > Search Result View for the Artist with the info about the about Albums that are related to him/her;
-
-![mockupSearchResult](./images/mockupSearchResult.png)
-
-      > Detail View for the Album with the info it's info, list of the titles with a Player for each
-       one of them;
-
-![mockupDetailView](./images/mockupDetailView.png)
-
-      > A Sort Search results based on Alphabetic order by Artist or by song Title and by Chronologic order.
-      This component should show up in every list result view.
 
 ###### Please check the JSON file for Job ads provided by the API in
 
