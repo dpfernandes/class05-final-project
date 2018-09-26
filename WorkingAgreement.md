@@ -1,9 +1,10 @@
-# Class work agreement
+# Class05 Working Agreement
 
 ## Iterations/Sprints/Deliverables
 
 ```text
 º Respect the deadlines;
+º Reach out by Wednesday with your questions about the work for the week;
 º Hand-in on Saturdays till 12:00.
 ```
 
