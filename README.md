@@ -57,7 +57,7 @@ Learn more about our customer here: https://ctr.hum.ku.dk/research-programmes-an
       > A Sort Search results based on Alphabetic order by Artist or by song Title and by Chronologic order.
       This component should show up in every list result view.
 
-###### Please check the JSON file for Job ads provided my the API in
+###### Please check the JSON file for Job ads provided by the API in
 
 https://my.api.mockaroo.com/job_ads.json?key=d38d0f10
 
