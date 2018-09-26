@@ -5,6 +5,8 @@ Main repository for the final project for Class 05
 
 ## Work Agreement
 
+[WorkAgreement.md](./WorkAgreement.md)
+
 _“Working agreements are guidelines that define how groups want to work together, and what they want in the working environment and from each other to feel safe and free to learn, explore and discover.”_
 
 Read the agreement and live up to it. Your project and team work has to have rules so you develop and communicate in the same way and follow up on each others work! **A finished project is only a sucesss if you did it together and learned together.**
