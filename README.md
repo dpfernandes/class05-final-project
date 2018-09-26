@@ -41,7 +41,8 @@ Due to the complexity of this project we will only develop a platform where Jobs
 
 ###### Build an UI using the mockup below as a guideline for:
 
-      > A Search View which will also be the Home Page View - use storybook and build the components for the view. 
+      > A Search View which will also be the Home Page View - use storybook and build the 
+      components for the view. 
 
 ![MockupHomePageView](./images/MockupHomePageView.png)
 
