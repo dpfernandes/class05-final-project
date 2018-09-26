@@ -6,7 +6,7 @@
 º Homework is mandatory and if you miss it we will consider that you did not attended the class;
 º Reach out by Wednesday with your questions about the work for the week;
 º Hand-in of the Homework is on Saturdays till 12:00(midday).
-º We expect you to work 15 to 25hours per week for the FP.
+º We expect you to work between 15 and 25hours per week for the FP.
 ```
 
 ## Iterations/Sprints/Deliverables
