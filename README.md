@@ -15,9 +15,7 @@ Feel free to review the points and contribute/pull request with new ones.
 
 Note that the project is split into two sub-projects. One for the [client](/client) and one for the [server](server). Further documentation in these folders.
 
-## The Customer
-
-### THREAD 
+## The Customern ### THREAD 
 
 #### THREAD stands for Textile Hub for Refugee Empowerment, Employment & Entrepreneurship Advancement in Denmark
 
@@ -67,7 +65,8 @@ https://my.api.mockaroo.com/job_ads.json?key=d38d0f10
 
 ## Class Daily Agenda
 
-```12:00 - 13:30 - Home work review and feature freeze for the previous sprint
+```
+12:00 - 13:30 - Home work review and feature freeze for the previous sprint
 13:30 - 14:00 - Presentation of the next sprint
 14:00 - 14:30 - Lunch 
 14:30 - 16:00 - Start of the next sprint 
