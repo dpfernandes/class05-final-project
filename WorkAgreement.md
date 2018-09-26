@@ -82,3 +82,11 @@ We agree on using a tool to maintain our backlog of pending work.
 We delegate work, but make sure that everyone have some knowledge of all code that gets merged.
 
 We strive to build the product according to the specification, but without wasting time on over-engineering or gold-plating features.
+
+
+## Class Daily Agenda
+
+12:00 - 13:30 - Home work review and feature freeze for the previous sprint
+13:30 - 14:00 - Presentation of the next sprint
+14:00 - 14:30 - Lunch 
+14:30 - 16:00 - Start of the next sprint 
