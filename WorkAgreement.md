@@ -1,4 +1,4 @@
-# Class working agreement
+# Class work agreement
 
 ## Iterations/Sprints/Deliverables
 
