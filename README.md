@@ -47,6 +47,13 @@ Due to the complexity of this project we will only develop a platform where Jobs
 ![Mockup_1st_Screen](./images/Mockup_1st_Screen.png)
 
 
+      > A Search Result View - use storybook and build the components for the view. 
+      Use the data provided in the APIs stated below the Mockup.
+
+![Mockup_Job_SearchResult_Screen](./images/Mockup_Job_SearchResult_Screen.png)
+
+
+
 ###### Please check the JSON file for Job ads provided by the API in
 
 https://my.api.mockaroo.com/job_ads.json?key=d38d0f10
