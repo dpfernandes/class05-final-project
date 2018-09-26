@@ -41,21 +41,21 @@ Due to the complexity of this project we will only develop a platform where Jobs
 
 ###### Build an UI using the mockup below as a guideline for:
 
-      > A Search View - use storybook and build the components for the view. 
-      Use the data provided in the APIs stated below the Mockup.
+      > A Search View which will also be the Home Page View - use storybook and build the components for the view. 
 
-![Mockup_1st_Screen](./images/Mockup_1st_Screen.png)
+![MockupHomePageView](./images/MockupHomePageView.png)
 
       > A Search by text Result View - use storybook and build the components for the view. 
-      Use the data provided in the APIs stated below the Mockup.
+      Note: Start date and end date pickers should be available if Event is selected.
 
-![Mockup_Job_SearchResult_Screen](./images/Mockup_Job_SearchResult_Screen.png)
+![MockupJobSearchResultView](./images/MockupJobSearchResultView.png)
 
-      > A Search by text and date rangeResult View - use storybook and build the
-      components for the view. Use the data provided in the APIs stated below the Mockup.
+      > A Result View with 2 different sub Views, one with results on the Map and another with 
+      results on a calendar - use storybook and build the components for the view. 
 
-![Mockup_Calendar_Screen](./images/Mockup_Calendar_Screen.png)
+![MockupEventCalendarResultView](./images/MockupEventCalendarResultView.png)
 
+![MockupEventMapResultView](./images/MockupEventMapResultView.png)
 
 
 
