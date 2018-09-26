@@ -34,7 +34,7 @@ Due to the complexity of this project we will only develop a platform where Jobs
 ### First iteration
 
 ##### 1A: When I want to find a specific Job Ad I want to be able to search for the title and location at the same time;
-##### 1B: When I want to find a specific Event I want to be able to search for the title and location at the same time;
+##### 1B: When I want to find a specific Event I want to be able to search for the title and location and date range at the same time;
 ##### 1C: When I want to find a specific Mentor I want to be able to search for the title and location at the same time;
 ##### 1D: When I want to find a specific Organisation I want to be able to search for the name and location at the same time;
 
@@ -46,11 +46,16 @@ Due to the complexity of this project we will only develop a platform where Jobs
 
 ![Mockup_1st_Screen](./images/Mockup_1st_Screen.png)
 
-
-      > A Search Result View - use storybook and build the components for the view. 
+      > A Search by text Result View - use storybook and build the components for the view. 
       Use the data provided in the APIs stated below the Mockup.
 
 ![Mockup_Job_SearchResult_Screen](./images/Mockup_Job_SearchResult_Screen.png)
+
+      > A Search by text and date rangeResult View - use storybook and build the
+      components for the view. Use the data provided in the APIs stated below the Mockup.
+
+![Mockup_Calendar_Screen](./images/Mockup_Calendar_Screen.png)
+
 
 
 
