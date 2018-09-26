@@ -51,13 +51,23 @@ Due to the complexity of this project we will only develop a platform where Jobs
 
 ![MockupJobSearchResultView](./images/MockupJobSearchResultView.png)
 
-      > A Result View with 2 different sub Views, one with results on the Map and another with 
-      results on a calendar - use storybook and build the components for the view. 
+      > A Result View with 2 different sub Views for Events, one with results on the Map 
+      and another with results on a calendar - use storybook and build the components for 
+      the view. 
 
 ![MockupEventCalendarResultView](./images/MockupEventCalendarResultView.png)
 
 ![MockupEventMapResultView](./images/MockupEventMapResultView.png)
 
+      > A Result View with 2 different sub Views for Shadows Search Results, one with 
+      results on the Map and another with results on a calendar - use storybook and build 
+      the components for the view. 
+
+![MockupShadowsResultMapView](./images/MockupShadowsResultMapView.png)
+
+![MockupShadowsResultListView](./images/MockupShadowsResultListView.png)
+
+Note: use the same logic and UI of the Shadow Results View for the Organisations Results View
 
 
 ###### Please check the JSON file for Job ads provided by the API in
