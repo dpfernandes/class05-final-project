@@ -44,7 +44,7 @@ Due to the complexity of this project we only develop a platform where Jobs, Eve
       > A Search View - use storybook and build the components for the view. Use the data on the
       JSON file provided by the API https://my.api.mockaroo.com/job_ads.json?key=d38d0f10;
 
-![mockupSearchView](./images/mockupSearchView.png)
+![Mockup_1st_Screen](./images/Mockup_1st_Screen.png)
 
       > Search Result View for the Artist with the info about the about Albums that are related to him/her;
 
