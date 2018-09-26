@@ -86,7 +86,10 @@ We strive to build the product according to the specification, but without wasti
 
 ## Class Daily Agenda
 
-12:00 - 13:30 - Home work review and feature freeze for the previous sprint
-13:30 - 14:00 - Presentation of the next sprint
-14:00 - 14:30 - Lunch 
-14:30 - 16:00 - Start of the next sprint 
+```text
+º 12:00 - 13:30 - Home work review and feature freeze for the previous sprint;
+º 13:30 - 14:00 - Presentation of the next sprint;
+º 14:00 - 14:30 - Lunch;
+º 14:30 - 16:00 - Start with the next sprint.
+```
+
