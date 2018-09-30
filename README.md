@@ -3,6 +3,8 @@
 
 Main repository for the final project for Class 05
 
+(./thread-logo.png)
+
 ## Working Agreement
 
 [WorkingAgreement.md](./WorkingAgreement.md)
