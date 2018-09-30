@@ -3,7 +3,7 @@
 
 Main repository for the final project for Class 05
 
-(./thread-logo.png)
+![thread-logo.png](./images/thread-logo.png)
 
 ## Working Agreement
 
