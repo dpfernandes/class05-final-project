@@ -29,7 +29,7 @@ Learn more about our customer here: https://ctr.hum.ku.dk/research-programmes-an
 
 ### The goal for this project is to develop an online platform to facilitate the connections between refugee women and individuals or organisations which share an interest in textiles and craft activity.
 
-Due to the complexity of this project we will only develop a platform where Jobs, Events, Calander, Organisations and Indiviuals, which will be called Shadows for now on, will be available to be searched upon, listed and also inserted in the system. The goal is to built the List Views and Insert Views related to these objects and make is possible to search by text and visualize them in a Map.
+Due to the complexity of this project we will only develop a platform where Jobs, Events, Calander, Organisations and Indiviuals, which will be called Mentors for now on, will be available to be searched upon, listed and also inserted in the system. The goal is to built the List Views and Insert Views related to these objects and make is possible to search by text and visualize them in a Map.
 
 ## Work stories
 
@@ -61,15 +61,15 @@ Due to the complexity of this project we will only develop a platform where Jobs
 
 ![MockupEventMapResultView](./images/MockupEventMapResultView.png)
 
-      > A Result View with 2 different sub Views for Shadows Search Results, one with 
+      > A Result View with 2 different sub Views for Mentors Search Results, one with 
       results on the Map and another with results on a calendar - use storybook and build 
       the components for the view. 
 
-![MockupShadowsResultMapView](./images/MockupShadowsResultMapView.png)
+![MockupMentorsResultMapView](./images/MockupMentorsResultMapView.png)
 
-![MockupShadowsResultListView](./images/MockupShadowsResultListView.png)
+![MockupMentorsResultListView](./images/MockupMentorsResultListView.png)
 
-Note: use the same logic and UI of the Shadow Results View for the Organisations Results View
+Note: use the same logic and UI of the Mentors Results View for the Organisations Results View
 
 
 ###### Please check the JSON file for Job ads provided by the API in
