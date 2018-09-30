@@ -43,27 +43,28 @@ Due to the complexity of this project we will only develop a platform where Jobs
 
 ###### Build an UI using the mockup below as a guideline for:
 
-      > A Search View which will also be the Home Page View - use storybook and build the 
-      components for the view. 
+      > A Search View which will also be the Home Page View - use https://storybook.js.org/
+      and build the components for the view. 
 
 ![MockupHomePageView](./images/MockupHomePageView.png)
 
-      > A Search by text Result View - use storybook and build the components for the view. 
+      > A Search by text Result View - use https://storybook.js.org/ and build the
+      components for the view. 
       Note: Start date and end date pickers should be available if Event is selected.
 
 ![MockupJobSearchResultView](./images/MockupJobSearchResultView.png)
 
       > A Result View with 2 different sub Views for Events, one with results on the Map 
-      and another with results on a calendar - use storybook and build the components for 
-      the view. 
+      and another with results on a calendar - use https://storybook.js.org/ and 
+      build the components for the view. 
 
 ![MockupEventCalendarResultView](./images/MockupEventCalendarResultView.png)
 
 ![MockupEventMapResultView](./images/MockupEventMapResultView.png)
 
       > A Result View with 2 different sub Views for Mentors Search Results, one with 
-      results on the Map and another with results on a calendar - use storybook and build 
-      the components for the view. 
+      results on the Map and another with results on a calendar - use https://storybook.js.org/
+      and build the components for the view. 
 
 ![MockupMentorsResultMapView](./images/MockupMentorsResultMapView.png)
 
