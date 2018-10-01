@@ -73,9 +73,12 @@ Due to the complexity of this project we will only develop a platform where Jobs
 Note: use the same logic and UI of the Mentors Results View for the Organisations Results View
 
 
-###### Please check the JSON file for Job ads provided by the API in
+###### Please check the JSON files provided through APIs
 
-https://my.api.mockaroo.com/job_ads.json?key=d38d0f10
+API for JOB Opportunities https://my.api.mockaroo.com/job_ads.json?key=d38d0f10
+API for Events https://my.api.mockaroo.com/events.json?key=d38d0f10
+API for Mentors https://my.api.mockaroo.com/mentor.json?key=d38d0f10
+API for Organisations https://my.api.mockaroo.com/organisation.json?key=d38d0f10
 
 
 ## Class Daily Agenda
