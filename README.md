@@ -107,7 +107,11 @@ https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop2.JPG
 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop3.jpg
 
+###### Recruitment 
+
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-recruitment.jpg
+
+###### Research 
 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-research.jpg
 
