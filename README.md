@@ -27,18 +27,18 @@ Learn more about our customer here: https://ctr.hum.ku.dk/research-programmes-an
 
 ## The Project Description
 
-### The goal for this project is to develop an online platform to facilitate the connections between refugee women and individuals or organisations which share an interest in textiles and craft activity.
+### The goal for this project is to develop an online platform to facilitate the connections between refugee women and individuals or partners or other organisations which share an interest in textiles and craft activity. The partners or other organisations are part of the THREAD network therefore they will be metioned as networking.
 
-Due to the complexity of this project we will only develop a platform where Jobs, Events, Calendar, Organisations and Individuals, which will be called Mentors for now on, will be available to be searched upon, listed and also inserted in the system. The goal is to built the List Views and Insert Views related to these objects and make is possible to search by text and visualize them in a Map.
+Due to the complexity of this project we will only develop a platform where Internship, Events, Calendar, Networking(Partners and other Organisations) and Individuals, which will be called Mentors for now on, will be available to be searched upon, listed and also inserted in the system. The goal is to built the List Views and Insert Views related to these objects and make is possible to search by text and visualize them in a Map.
 
 ## Work stories
 
 ### First iteration
 
-##### 1A: When I want to find a specific Job Ad I want to be able to search for the title and location at the same time;
+##### 1A: When I want to find a specific Internship Ad I want to be able to search for the title and location at the same time;
 ##### 1B: When I want to find a specific Event I want to be able to search for the title, location and date range at the same time;
 ##### 1C: When I want to find a specific Mentor I want to be able to search for the title and location at the same time;
-##### 1D: When I want to find a specific Organisation I want to be able to search for the name and location at the same time;
+##### 1D: When I want to find a specific type of Networking I want to be able to search for the name and location at the same time;
 
 
 ###### Build an UI using the mockup below as a guideline for:
@@ -52,7 +52,7 @@ Due to the complexity of this project we will only develop a platform where Jobs
       components for the view. 
       Note: Start date and end date pickers should be available if Event is selected.
 
-![MockupJobSearchResultView](./images/MockupJobSearchResultView.png)
+![MockupInternshipSearchResultView](./images/MockupInternshipSearchResultView.png)
 
       > A Result View with 2 different sub Views for Events, one with results on the Map 
       and another with results on a calendar - use https://storybook.js.org/ and 
@@ -70,19 +70,37 @@ Due to the complexity of this project we will only develop a platform where Jobs
 
 ![MockupMentorsResultListView](./images/MockupMentorsResultListView.png)
 
-Note: use the same logic and UI of the Mentors Results View for the Organisations Results View
+Note: use the same logic and UI of the Mentors Results View for the Networking Results View
 
 
 ###### Please check the JSON files provided through APIs
 
-API for JOB Opportunities https://my.api.mockaroo.com/job_ads.json?key=d38d0f10
+API for Internship https://my.api.mockaroo.com/internship.json?key=d38d0f10
 
 API for Events https://my.api.mockaroo.com/events.json?key=d38d0f10
 
 API for Mentors https://my.api.mockaroo.com/mentor.json?key=d38d0f10
 
-API for Organisations https://my.api.mockaroo.com/organisation.json?key=d38d0f10
+API for Networking https://my.api.mockaroo.com/networking.json?key=d38d0f10
 
+###### Images given by THREAD
+
+####### Logo 
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-logo.png
+
+####### Internships 
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-1month.jpg
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-3month.jpg
+
+####### Events
+Lecture   https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-lecture.jpg
+Catwalk   https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-catwalk.jpg
+Workshop https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop1.jpg
+
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop2.jpg
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop3.jpg
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-recruitment.jpg
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-research.jpg
 
 ## Class Daily Agenda
 
