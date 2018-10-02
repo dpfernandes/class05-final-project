@@ -94,13 +94,13 @@ https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-1month.J
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-3months.jpeg
 
 ###### Events
-######Lecture   
+###### Lecture   
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-lecture.jpg
 
-######Catwalk   
+###### Catwalk   
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-catwalk.jpg
 
-###### Workshop 
+###### Workshops 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop1.jpg
 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop2.JPG
