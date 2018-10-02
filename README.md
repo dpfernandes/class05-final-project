@@ -89,9 +89,9 @@ API for Networking https://my.api.mockaroo.com/networking.json?key=d38d0f10
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-logo.png
 
 ####### Internships 
-https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-1month.jpg
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-1month.JPG
 
-https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-3month.jpg
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-3months.jpeg
 
 ####### Events
 Lecture   https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-lecture.jpg
@@ -102,7 +102,7 @@ Workshop https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-work
 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop2.JPG
 
-https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop3.jpeg
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop3.jpg
 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-recruitment.jpg
 
