@@ -15,7 +15,6 @@ Read the agreement and live up to it. Your project and team work has to have rul
 
 Feel free to review the points and contribute/pull request with new ones.
 
-Note that the project is split into two sub-projects. One for the [client](/client) and one for the [server](server). Further documentation in these folders.
 
 ## The Customer - THREAD 
 
