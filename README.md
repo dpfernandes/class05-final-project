@@ -90,6 +90,7 @@ https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-logo.png
 
 ####### Internships 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-1month.jpg
+
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-3month.jpg
 
 ####### Events
