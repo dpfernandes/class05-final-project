@@ -94,12 +94,17 @@ https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-3month.j
 
 ####### Events
 Lecture   https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-lecture.jpg
+
 Catwalk   https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-catwalk.jpg
+
 Workshop https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop1.jpg
 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop2.jpg
+
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop3.jpg
+
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-recruitment.jpg
+
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-research.jpg
 
 ## Class Daily Agenda
