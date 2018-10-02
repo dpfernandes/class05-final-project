@@ -85,20 +85,23 @@ API for Networking https://my.api.mockaroo.com/networking.json?key=d38d0f10
 
 ###### Images given by THREAD
 
-####### Logo 
+###### Logo 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-logo.png
 
-####### Internships 
+###### Internships 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-1month.JPG
 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-internship-3months.jpeg
 
-####### Events
-Lecture   https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-lecture.jpg
+###### Events
+######Lecture   
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-lecture.jpg
 
-Catwalk   https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-catwalk.jpg
+######Catwalk   
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-catwalk.jpg
 
-Workshop https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop1.jpg
+###### Workshop 
+https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop1.jpg
 
 https://s3.us-east-2.amazonaws.com/hyf-thread-class05/thread-event-workshop2.JPG
 
