@@ -85,7 +85,7 @@ Note: use the same logic and UI of the Mentors Results View for the Networking R
             Note #3: Beware that even though the Mockups show several Maps, this exercise is only for Events.
       
       > Extra 
-            > Add 2 new Items to the Menu:
+            > Build a Footer with 4 new Items:
 
             * About us with the following content:
 
@@ -94,16 +94,19 @@ Note: use the same logic and UI of the Mentors Results View for the Networking R
                   new model
 
                   THREAD is a dynamic and innovative collaboration
-                  of diverse partners from business, design, education, research and refugee support agencies aiming to 
+                  of diverse partners from business, design, education, 
+                  research and refugee support agencies aiming to 
                   achieve life-changing results for women who are 
                   forging new lives in Denmark.
 
                   Integration is a key problem for refugees and their 
                   host countries. This project seeks to help solve this
                   problem by developing and testing a pioneering 
-                  themed model of Empowerment, Employment and Entrepreneurship opportunities. The model offers 
+                  themed model of Empowerment, Employment and 
+                  Entrepreneurship opportunities. The model offers 
                   a step-change programme to women refugees with 
-                  differing levels of life experience and educational qualifications, which may be accessed according to 
+                  differing levels of life experience and educational 
+                  qualifications, which may be accessed according to 
                   their individual confidence and competence.
 
                   The project is funded by Innovationsfonden.
@@ -122,8 +125,6 @@ Note: use the same logic and UI of the Mentors Results View for the Networking R
                   Tel.: +45 60 86 32 17
                   E-mail: egzona@hum.ku.dk
 
-            > Build a Footer that shows at least these 2 items:
-
             * Developed by
 
                   Group # for the Final Project Class at
@@ -131,9 +132,12 @@ Note: use the same logic and UI of the Mentors Results View for the Networking R
                   http://hackyourfuture.dk/
             
             * Facebook
-            
+
             Thread facebook page
             https://www.facebook.com/threadcopenhagen/
+
+            Note: the items that actually have content should
+            show the content itself in a detail view.
 
 ###### Please check the JSON files provided through APIs
 
