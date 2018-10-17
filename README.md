@@ -86,17 +86,30 @@ Note: use the same logic and UI of the Mentors Results View for the Networking R
       
       > Extra 
             > Add 2 new Items to the Menu:
-            
+
             * About us with the following content:
-                  Textile Hub for Refugees' Empowerment, Employment and Entrepreneurship Advancement in Denmark - a new model
 
-                  THREAD is a dynamic and innovative collaboration of diverse partners from business, design, education, research and refugee support agencies aiming to achieve life-changing results for women who are forging new lives in Denmark.
+                  Textile Hub for Refugees' Empowerment, Employment 
+                  and Entrepreneurship Advancement in Denmark - a 
+                  new model
 
-                  Integration is a key problem for refugees and their host countries. This project seeks to help solve this problem by developing and testing a pioneering themed model of Empowerment, Employment and Entrepreneurship opportunities. The model offers a step-change programme to women refugees with differing levels of life experience and educational qualifications, which may be accessed according to their individual confidence and competence.
+                  THREAD is a dynamic and innovative collaboration
+                  of diverse partners from business, design, education, research and refugee support agencies aiming to 
+                  achieve life-changing results for women who are 
+                  forging new lives in Denmark.
+
+                  Integration is a key problem for refugees and their 
+                  host countries. This project seeks to help solve this
+                  problem by developing and testing a pioneering 
+                  themed model of Empowerment, Employment and Entrepreneurship opportunities. The model offers 
+                  a step-change programme to women refugees with 
+                  differing levels of life experience and educational qualifications, which may be accessed according to 
+                  their individual confidence and competence.
 
                   The project is funded by Innovationsfonden.
 
             * Contact with the following content:
+            
                   Jane Malcolm-Davies, Director
                   Centre for Textile Research
                   University of Copenhagen
