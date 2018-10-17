@@ -109,7 +109,7 @@ Note: use the same logic and UI of the Mentors Results View for the Networking R
                   The project is funded by Innovationsfonden.
 
             * Contact with the following content:
-            
+
                   Jane Malcolm-Davies, Director
                   Centre for Textile Research
                   University of Copenhagen
@@ -121,6 +121,19 @@ Note: use the same logic and UI of the Mentors Results View for the Networking R
                   University of Copenhagen
                   Tel.: +45 60 86 32 17
                   E-mail: egzona@hum.ku.dk
+
+            > Build a Footer that shows at least these 2 items:
+
+            * Developed by
+
+                  Group # for the Final Project Class at
+                  Hack Your Future - Copenhagen
+                  http://hackyourfuture.dk/
+            
+            * Facebook
+            
+            Thread facebook page
+            https://www.facebook.com/threadcopenhagen/
 
 ###### Please check the JSON files provided through APIs
 
