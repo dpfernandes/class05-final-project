@@ -75,9 +75,11 @@ Note: use the same logic and UI of the Mentors Results View for the Networking R
 
       > Build Menu View with React based on the components previously created with the Storybook.io;
 
-      > Build List Views with React using the APIs structure for Internship ads, Events , Mentors and Networking and using the components that you created with Storybook.io;
+      > Build List Views with React using the APIs structure for Internship ads, Events , Mentors and 
+      Networking and using the components that you created with Storybook.io;
             Note #1: The availabilities of the Mentors should be listed;
-            Note #2: The search boxes don't need to be part of the Views in this stage because we are only developing Listing and not Search.
+            Note #2: The search boxes don't need to be part of the Views in this stage because we are only 
+            developing Listing and not Search.
 
       > Build List View for the Calendar using the API's structure for Events;
 
